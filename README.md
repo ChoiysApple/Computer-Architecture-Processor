@@ -4,7 +4,6 @@ This document based on "Computer Organization and Design ARM Edition"
 
 Notion available [here](https://www.notion.so/choiysapple/Computer-Architecture-4267696f484749999e9a989f7645db31)  
 
-- Processor
 
     [Processor 1](./Documents/Processor-1-6026425c-b0b3-4077-a515-e1dd82cddb25.md)
 
